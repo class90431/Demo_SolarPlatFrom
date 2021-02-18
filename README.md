@@ -23,9 +23,10 @@
 
 ### 單元測試
 
-#### 使用 `Mocha` 搭配 `Chai` & `Sinon`
+#### 框架、函式庫
+- 使用 `Mocha` 搭配 `Chai` & `Sinon`
 
-#### 測試項目
+### 測試項目
 - 輪播（Carousel）功能
     - Play、Pause、Previous、Next
 - 載入遮罩（Loading Ovarlay）顯示/消失
@@ -35,7 +36,7 @@
 
 ### E2E 測試
 #### 框架
-`Nightwatch`
+- 使用 `Nightwatch`
 
 #### 測試項目
 - Dom(#app) 是否出現
